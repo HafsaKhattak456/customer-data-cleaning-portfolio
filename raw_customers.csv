@@ -1,0 +1,11 @@
+Customer_ID,Name,Email,Age,City,Purchase_Amount
+101, ali khan ,ali@gmail.com,25,karachi,2500
+102,Sara Ahmed,sara@gmail.com,28,Lahore,3200
+103,Usman Raza,usman@gmail.com,,ISLAMABAD,1800
+104,Ayesha Noor,ayesha@gmail.com,24,karachi,4500
+105,Ali Khan,ali@gmail.com,25,Karachi,2500
+106,Hamza Malik,hamza@gmail.com,31,lhr,2100
+107,Fatima Ali,,27,Islamabad,3000
+108,Bilal Ahmed,bilal@gmail.com,150,KARACHI,1700
+109,Maham Khan,maham@gmail.com,26,Lahore,
+110,Zain Abbas,zain@gmail.com,29, karachi ,2800
